@@ -21,7 +21,7 @@ Berikut adalah beberapa manfaat penggunaan framework pada pengembangan aplikasi:
 soal nomor 2
 1. tema project : Membuat Aplikasi Laundry
 2. Nama anggota
--Fajri Ridha Muhammad (membuat Laporan & design)
+-Fajri Ridho maulana (membuat Laporan & design)
 -Maulid Dani(membuat Database)
 _Satria Nopyandi (membuat codingan)
 3. Permasalahan
