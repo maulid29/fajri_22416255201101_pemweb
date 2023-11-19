@@ -1,0 +1,68 @@
+jawaban soal nomor 1
+	Framework pada pengembangan aplikasi adalah kumpulan kode yang sudah jadi dan siap pakai untuk membantu pengembang dalam membuat aplikasi. Framework menyediakan fungsionalitas dasar yang dibutuhkan oleh banyak aplikasi, seperti manajemen sesi, keamanan, routing, validasi input, dan lain sebagainya. Dengan menggunakan framework, pengembang dapat fokus pada pengembangan fitur khusus aplikasi tanpa harus memulai dari awal.
+
+	Istilah framework dapat dianalogikan dengan kerangka bangunan. Kerangka bangunan adalah struktur dasar yang digunakan untuk membangun sebuah bangunan. Kerangka bangunan menyediakan pondasi, balok, kolom, dan lain sebagainya yang diperlukan untuk membangun sebuah bangunan. Dengan adanya kerangka bangunan, proses pembangunan bangunan menjadi lebih mudah dan cepat.
+
+	Secara sederhana, framework dapat diartikan sebagai "kerangka kerja" untuk pengembangan aplikasi. Framework menyediakan struktur dan dukungan bagi pengembangan aplikasi, sehingga mempermudah proses pengembangan dan memastikan kualitas aplikasi yang dihasilkan.
+
+Berikut adalah beberapa manfaat penggunaan framework pada pengembangan aplikasi:
+
+1.Mempermudah dan mempercepat proses pengembangan aplikasi
+2.Meningkatkan kualitas aplikasi
+3.Meningkatkan keamanan aplikasi
+4.Meningkatkan skalabilitas aplikasi
+5.Meningkatkan produktivitas pengembang
+6.Framework dapat digunakan untuk mengembangkan berbagai jenis aplikasi, termasuk aplikasi web, aplikasi desktop, dan aplikasi mobile. Beberapa contoh framework yang populer antara lain:
+
+-Framework web: Laravel, Django, Spring Boot
+-Framework desktop: Qt, JavaFX, Swing
+-Framework mobile: Flutter, React Native, Ionic
+
+soal nomor 2
+1. tema project : Membuat Aplikasi Laundry
+2. Nama anggota
+-Fajri Ridha Muhammad (membuat Laporan & design)
+-Maulid Dani(membuat Database)
+_Satria Nopyandi (membuat codingan)
+3. Permasalahan
+penjelasan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang diusung untuk aplikasi laundry:
+
+
+Berdasarkan wawancara dengan client, berikut adalah beberapa permasalahan yang ditemukan:
+
+1. Proses pemesanan yang masih manual
+Proses pemesanan laundry di laundry tersebut masih dilakukan secara manual, yaitu dengan cara pelanggan datang langsung ke laundry dan pemilik menulis formulir pemesanan. Hal ini menyebabkan proses pemesanan menjadi kurang efisien dan dapat menimbulkan kesalahan.
+
+2. Proses pelacakan status pesanan yang kurang transparan
+Setelah pelanggan melakukan pemesanan, mereka tidak dapat mengetahui status pesanan mereka secara real time. Hal ini menyebabkan pelanggan merasa khawatir dan tidak nyaman.
+
+3. Proses pembayaran yang masih kurang praktis
+Pembayaran laundry di laundry tersebut masih dilakukan secara tunai. Hal ini menyebabkan pelanggan harus membawa uang tunai saat datang ke laundry.
+
+4. keinginan membuat fitur resi pemesanan setelah pemesanan dengan input notif
+* Nama pelanggan
+* Nomor telepon pelanggan
+* Tanggal pemesanan
+* Jenis laundry
+* Berat laundry
+* Biaya laundry
+
+Berdasarkan permasalahan yang ditemukan, berikut adalah hipotesa solusi yang diusung untuk aplikasi laundry:
+
+1. Proses pemesanan yang lebih efisien dan akurat
+Proses pemesanan laundry dapat dilakukan secara online melalui aplikasi. Hal ini akan membuat proses pemesanan menjadi lebih efisien dan akurat.
+
+2. Proses pelacakan status pesanan yang lebih transparan
+Pembeli dapat mengetahui status pesanan mereka secara real time melalui aplikasi. Hal ini akan membuat pembeli merasa lebih nyaman dan percaya diri.
+
+3. Proses pembayaran yang lebih praktis
+Pembayaran laundry dapat dilakukan secara online melalui aplikasi yang akan hosting ke API dana. Hal ini akan membuat pembeli lebih praktis dan tidak perlu membawa uang tunai saat datang ke laundry.
+
+4. Menambahkan fitur resi pemesanan
+ langkah langkah membuat resi pemesanan
+*Buka aplikasi WhatsApp.
+*Buka percakapan dengan pelanggan.
+*Ketik template resi yang telah dibuat didalam aplikasi.
+*Ganti informasi yang diperlukan, seperti nama pelanggan, nomor telepon pelanggan, tanggal pemesanan, jenis laundry, berat laundry, dan biaya laundry.
+*Kirim resi pemesanan kepada pelanggan melalui hosting whatsaap API business.
+
